@@ -1,13 +1,13 @@
-# Blender MTL File: 'steep-popsicle-v3.blend'
+# Blender MTL File: 'steep-9.blend'
 # Material Count: 1
 
-newmtl None.002
-Ns 500.000001
+newmtl None.001
+Ns 650.249991
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
-Ks 0.800000 0.800000 0.800000
+Ks 0.461765 0.461765 0.461765
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd uv-map.png
+map_Kd uv-map-v3.png
